@@ -1,4 +1,4 @@
 # Lobbylair
 
 
-This is a repository about the final proyect of the academy soyHenry
+This is a repository about the back end of the  final proyect  from the academy soyHenry
